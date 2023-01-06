@@ -1,5 +1,5 @@
 # Ionic_fetch_data
-Fetching data from JSON file to display on screen 
+Fetching data from JSON file to display on screen.
 
 
 ## Prerequisites
@@ -24,5 +24,4 @@ cd Avian_Elysium
 
 The app will open in your default browser.
 
-## Usage
-On the map, you'll see markers representing the location of each bird.
+
