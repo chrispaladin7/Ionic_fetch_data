@@ -11,9 +11,9 @@ Before you get started, make sure you have the following tools installed on your
 ## Installation
 Clone this repository and navigate to the project directory:
 
-git clone https://github.com//chrispaladin7/Avian_Elysium.git
+git clone https://github.com//chrispaladin7/Ionic_fetch_data.git
 
-cd Avian_Elysium
+cd Ionic_fetch_data
 
 
 ### Install the dependencies:
